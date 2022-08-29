@@ -1,0 +1,67 @@
+{
+	"storyName": "Encore sonic songs",
+	"difficulties": "encore",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"too-slow-encore",
+			"sonicexe",
+			[
+				0,
+				88,
+				183
+			]
+		],
+		[
+			"you-cant-run-encore",
+			"ycr",
+			[
+				22,
+				13,
+				135
+			]
+		],
+		[
+			"sunshine-encore",
+			"taildoll",
+			[
+				243,
+				155,
+				0
+			]
+		],
+		[
+			"cycles-encore",
+			"soylent",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"endless-encore",
+			"majin",
+			[
+				0,
+				0,
+				215
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Custom Week"
+}

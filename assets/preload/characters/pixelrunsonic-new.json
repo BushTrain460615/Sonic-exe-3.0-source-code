@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-250,
+				-510
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "ycr sonic idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-259,
+				-470
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "ycr sonic down"
+		},
+		{
+			"offsets": [
+				-260,
+				-470
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "ycr sonic up"
+		},
+		{
+			"offsets": [
+				-260,
+				-470
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "ycr sonic right"
+		},
+		{
+			"offsets": [
+				-260,
+				-470
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "ycr sonic left"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/ycr_sonic_sheet",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "sonic",
+	"flip_x": true,
+	"healthbar_colors": [
+		26,
+		26,
+		134
+	],
+	"camera_position": [
+		-100,
+		320
+	],
+	"sing_duration": 6.1,
+	"scale": 10
+}

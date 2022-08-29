@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="hog.png">
+<SubTexture name="hog idle0000" x="0" y="0" width="171" height="167" frameX="-16" frameY="-4" frameWidth="189" frameHeight="171" />
+<SubTexture name="hog mad0000" x="171" y="0" width="171" height="167" frameX="-16" frameY="-4" frameWidth="189" frameHeight="171" />
+<SubTexture name="hog sad0000" x="0" y="167" width="171" height="167" frameX="-16" frameY="-4" frameWidth="189" frameHeight="171" />
+<SubTexture name="hog talk0000" x="171" y="167" width="171" height="167" frameX="-16" frameY="-4" frameWidth="189" frameHeight="171" />
+<SubTexture name="hog transform0000" x="342" y="0" width="171" height="167" frameX="-16" frameY="-4" frameWidth="189" frameHeight="171" />
+</TextureAtlas>

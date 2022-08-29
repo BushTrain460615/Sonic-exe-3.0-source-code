@@ -1,0 +1,4 @@
+Value 1: Zoom
+Value 2: time,easing
+to put a easing, you have to write like that:
+0.5,quartOut

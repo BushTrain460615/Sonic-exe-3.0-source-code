@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="eggman.png"><SubTexture name="eggman Idle0000" x="4667" y="1970" width="1664" height="1947" frameX="-211" frameY="-120" frameWidth="2067" frameHeight="2067" />
+<SubTexture name="eggman Idle0001" x="1873" y="4360" width="1663" height="1932" frameX="-211" frameY="-135" frameWidth="2067" frameHeight="2067" />
+<SubTexture name="eggman Idle0002" x="3536" y="4360" width="1709" height="1927" frameX="-211" frameY="-140" frameWidth="2067" frameHeight="2067" />
+<SubTexture name="eggman Idle0003" x="6539" y="0" width="1714" height="1900" frameX="-211" frameY="-167" frameWidth="2067" frameHeight="2067" />
+<SubTexture name="eggman Left0000" x="4667" y="0" width="1872" height="1970" frameX="-47" frameY="-373" frameWidth="2343" frameHeight="2343" />
+<SubTexture name="eggman Left0001" x="0" y="4360" width="1873" height="1970" frameX="-46" frameY="-373" frameWidth="2343" frameHeight="2343" />
+<SubTexture name="eggman Down0000" x="2343" y="6330" width="2343" height="1825" frameX="0" frameY="-103" frameWidth="2343" frameHeight="1928" />
+<SubTexture name="eggman Down0001" x="0" y="6330" width="2343" height="1827" frameX="0" frameY="-101" frameWidth="2343" frameHeight="1928" />
+<SubTexture name="eggman Up0000" x="0" y="2288" width="2125" height="2072" frameX="-4" frameY="-270" frameWidth="2343" frameHeight="2343" />
+<SubTexture name="eggman Up0001" x="2125" y="2288" width="2092" height="2072" frameX="-37" frameY="-270" frameWidth="2343" frameHeight="2343" />
+<SubTexture name="eggman Right0000" x="0" y="0" width="2330" height="2288" frameX="-7" frameY="-55" frameWidth="2343" frameHeight="2343" />
+<SubTexture name="eggman Right0001" x="2330" y="0" width="2337" height="2288" frameX="0" frameY="-55" frameWidth="2343" frameHeight="2343" />
+</TextureAtlas>

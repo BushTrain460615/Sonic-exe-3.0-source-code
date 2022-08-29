@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="baby.png">
+<SubTexture name="baby down0000" x="368" y="348" width="450" height="288" frameX="-91" frameY="-99" frameWidth="578" frameHeight="387" />
+<SubTexture name="baby idle0000" x="0" y="348" width="368" height="294" frameX="-91" frameY="-93" frameWidth="578" frameHeight="387" />
+<SubTexture name="baby left0000" x="0" y="0" width="535" height="348" frameX="-43" frameY="-39" frameWidth="578" frameHeight="387" />
+<SubTexture name="baby right0000" x="903" y="0" width="250" height="274" frameX="-139" frameY="-113" frameWidth="578" frameHeight="387" />
+<SubTexture name="baby up0000" x="535" y="0" width="368" height="306" frameX="-91" frameY="-81" frameWidth="578" frameHeight="387" />
+</TextureAtlas>

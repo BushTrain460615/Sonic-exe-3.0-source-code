@@ -1,0 +1,4 @@
+Value 1: disappear timer(if blank,
+flash will disappear in 1 second).
+Value 2: Color (if blank, flash
+will be white).

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				737,
+				696
+			],
+			"loop": true,
+			"fps": 8,
+			"anim": "idle",
+			"indices": [],
+			"name": "eggman Idle"
+		},
+		{
+			"offsets": [
+				800,
+				808
+			],
+			"loop": true,
+			"fps": 8,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "eggman Left"
+		},
+		{
+			"offsets": [
+				810,
+				622
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "eggman Down"
+		},
+		{
+			"offsets": [
+				840,
+				804
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singUP",
+			"indices": [],
+			"name": "eggman Up"
+		},
+		{
+			"offsets": [
+				822,
+				804
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "eggman Right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/eggman",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "icon-eggman",
+	"flip_x": false,
+	"healthbar_colors": [
+		136,
+		0,
+		0
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 5.5,
+	"scale": 0.4
+}
